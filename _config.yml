@@ -1,0 +1,28 @@
+name: evanpease
+favicon: null
+layout_spectrum: 0.2730548547115177
+typography_spectrum: 0.4888020046055317
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9194332717452198
+  lightness: 0.6675250090193003
+  saturation: 0.6846120262052864
+  rhythmicContrast: 0.8970870908815414
+purpose: []
